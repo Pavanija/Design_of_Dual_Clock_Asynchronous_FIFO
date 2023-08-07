@@ -4,8 +4,10 @@ This project is an implementation of an Asynchronous FIFO (First-In-First-Out),a
 It is commonly used in digital systems where data needs to be transferred between different clock domains or between systems with different timing characteristics. 
 The theory behind an asynchronous FIFO involves managing data transfer, addressing potential timing differences, and ensuring data integrity.
 This repository provides a comprehensive and modular FIFO design that can be integrated into various digital systems to ensure reliable and orderly data transfer across clock domain boundaries.
-Below is the block design of FIFO 
-![FIFO_structure](https://github.com/Manikanta-IITB/Design_of_Synchronous_and_Asynchronous_FIFO/assets/138108630/576b9869-bc35-437b-b691-e95a1f4bce90)
+<br />
+## Asynchronous FIFO Block Diagram
+![s_FIFO](https://github.com/Pavanija/Design_of_Dual_Clock_Asynchronous_FIFO/assets/140067158/e8c302b4-e438-4051-9ef7-1cdb44cada28)
+
 <p align="justify">
 
 ## Key Concepts 
