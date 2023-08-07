@@ -6,7 +6,7 @@ The theory behind an asynchronous FIFO involves managing data transfer, addressi
 This repository provides a comprehensive and modular FIFO design that can be integrated into various digital systems to ensure reliable and orderly data transfer across clock domain boundaries.
 <br />
 ## Asynchronous FIFO Block Diagram
-![s_FIFO](https://github.com/Pavanija/Design_of_Dual_Clock_Asynchronous_FIFO/assets/140067158/e8c302b4-e438-4051-9ef7-1cdb44cada28)
+![FIFO_s](https://github.com/Pavanija/Design_of_Dual_Clock_Asynchronous_FIFO/assets/140067158/87f91ada-1a11-42b8-b508-bee54db46d9b)
 
 <p align="justify">
 
