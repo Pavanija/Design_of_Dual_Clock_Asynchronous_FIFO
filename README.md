@@ -4,7 +4,8 @@ Asynchronous FIFO ( (First-In-First-Out)) are necessary in digital systems where
 The theory behind an asynchronous FIFO involves managing data transfer, addressing potential timing differences, and
 ensuring data integrity.
 The key concepts involved in the design are
-![FIFO](https://github.com/Pavanija/Design_of_Dual_Clock_Asynchronous_FIFO/assets/140067158/8f17e31a-1330-49be-a23b-48a664764e25)
+![FIFO](https://github.com/Pavanija/Design_of_Dual_Clock_Asynchronous_FIFO/assets/140067158/7965430c-2629-4f13-a0b1-c90f748012b0)
+
 ## FIFO Structure
 An asynchronous FIFO consists of two major components: the write port and the read port. The write port
 receives data from the source clock domain and stores it in memory, while the read port retrieves data from memory and
