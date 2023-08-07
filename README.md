@@ -1,6 +1,7 @@
 # Design_of_Dual_Clock_Asynchronous_FIFO
+![FIFO](https://github.com/Pavanija/Design_of_Dual_Clock_Asynchronous_FIFO/assets/140067158/075a40e0-19f8-4796-afd3-e79e84323448)
 <p align="justify">
-Asynchronous FIFO ( (First-In-First-Out)) are necessary in digital systems where data needs to be transferred between two clock domains or between systems with different timing characteristics that operate independently and asynchronously.
+## Asynchronous FIFO (First-In-First-Out) is necessary in digital systems where data needs to be transferred between two clock domains or between systems with different timing characteristics that operate independently and asynchronously.
 The theory behind an asynchronous FIFO involves managing data transfer, addressing potential timing differences, and
 ensuring data integrity.
 The key concepts involved in the design are
