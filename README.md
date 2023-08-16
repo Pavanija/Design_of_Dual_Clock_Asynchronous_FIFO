@@ -41,5 +41,5 @@ reducing the risk of unpredictable behavior.</p>
 ## Implementation details 
 <p align="justify">
 The asynchronous FIFO design is implemented using a combination of gray-code-based pointers, dual-clock domain synchronization techniques, 
-and control logic to manage data transfer and maintain FIFO status. 
+and control logic to manage data transfer without multi-bit signal transitions and to avoid metastability issues. The code is verified for Write full and Read empty test cases using Quartus in Modelsim.
 The modular design allows for easy customization and adaptation to various use cases.</p>
